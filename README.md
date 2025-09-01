@@ -2,10 +2,11 @@
 
 ## 📖 Overview
 
-This is a simple **command-line calculator** built in Python.\
-It supports the following arithmetic operations: - ➕ Addition\
-- ➖ Subtraction\
-- ✖️ Multiplication\
+This is a simple **command-line calculator** built in Python.
+It supports the following arithmetic operations:
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
 - ➗ Division (with error handling for division by zero)
 
 ------------------------------------------------------------------------
@@ -18,9 +19,9 @@ It supports the following arithmetic operations: - ➕ Addition\
 
 ### Run Instructions
 
-1.  Clone or download this repository\
+1.  Clone or download this repository
 
-2.  Save the script as `calculator.py`\
+2.  Save the script as `calculator.py`
 
 3.  Run the program:
 
@@ -48,17 +49,17 @@ It supports the following arithmetic operations: - ➕ Addition\
 
 ## ⚙️ Features
 
--   Handles **division by zero** gracefully\
--   Function-based design (easy to read & maintain)\
+-   Handles **division by zero** gracefully
+-   Function-based design (easy to read & maintain)
 -   Simple CLI interface for user interaction
 
 ------------------------------------------------------------------------
 
 ## 🔮 Future Improvements
 
--   Add more operations (modulus, exponentiation, square root)\
--   Implement memory/history feature\
--   Build a **GUI version** with Tkinter or PyQt\
+-   Add more operations (modulus, exponentiation, square root)
+-   Implement memory/history feature
+-   Build a **GUI version** with Tkinter or PyQt
 -   Add **unit tests** for automated testing
 
 ------------------------------------------------------------------------
